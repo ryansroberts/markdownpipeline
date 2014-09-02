@@ -1,0 +1,2 @@
+## Topic CG15AdultS16
+Prevention of arterial risk in people with Type 1 diabetes, through attention to blood glucose co ntrol (insulin therapy, patient education, nutrit ion, self-monitoring) is considered elsewhere in this guideline, and blood pressure management in 8.3, below. However, in the general population (at much lower risk) and in people with Type 2 diabetes other therapies are known to re duce the risk of arterial events. The current section therefore deals with these approaches as applied to people with Type 1 diabetes.

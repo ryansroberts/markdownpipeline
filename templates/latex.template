@@ -1,6 +1,7 @@
 \documentclass[11pt,article,oneside]{memoir}
 \usepackage[minion]{org-preamble-pdflatex}
 \input{vc}
+\DeclareUnicodeCharacter{00A0}{ }
 
 $if(listings)$
 \usepackage{listings}

@@ -1,24 +1,34 @@
+
 GUIDANCE_DIR = src/pandoc/CG15
 
-MARKDOWN = $(shell find $(GUIDANCE_DIR) -type f -name '*.md')
 
 BUILD = build/
 
-MERGED = $(BUILD)/merged.md
+INTRODUCTION_CH = $(GUIDANCE_DIR)/chapters/introduction
 
+RECOMMENDATIONS_CH = $(GUIDANCE_DIR)/chapters/recommendations 
 
-PANDOC_PDF_OPTS := --toc --chapters --base-header-level=1 --number-sections --template=virsto_doc.tex --variable mainfont="Liberation Serif" --variable sansfont="Liberation Sans" --variable monofont="Liberation Mono" --variable fontsize=12pt --variable documentclass=book 
-PANDOC_EBOOK_OPTS := --toc --epub-stylesheet=epub.css --epub-cover-image=cover.jpg --base-header-level=1
+MARKDOWN = $(INTRODUCTION_CH)/Introduction.md
 
+RECS = $(sort $(dir $(wildcard src/pandoc/CG15/chapters/recommendations/*/)))
+
+MARKDOWN += $(foreach rec,$(RECS),					\
+		$(rec)Set.md			  										\
+		$(rec)Discussion.md  										\
+		$(rec)Recommendation.md                 \
+		$(sort $(wildcard $(rec)*ES*.md)))
+
+TEMPLATES = templates/
 
 clean:
 	rm -rf build/*
 
-concat: clean
-	$(MARKDOWN)
-		cat $^ >$(MERGED)
+PANDOC_OPT = -r simple_tables+table_captions+yaml_metadata_block -s -S --normalize --smart -f markdown --standalone --toc --bibliography=$(GUIDANCE_DIR)/Citations.bibtex
 
-html: concat
-	    pandoc -c --normalize --smart -f markdown -t html --bibliography=$(GUIDANCE_DIR)/Citations.tex --standalone --include-in-header=style.css $(MERGED) -o build/$(@F) $<
+html: clean 
+	    pandoc $(PANDOC_OPT) -template=templates/html.template -t html5 $(MARKDOWN) -o $(BUILD)cg15.html 
 
-all: html
+pdf: clean
+			pandoc $(PANDOC_OPT) --latex-engine=pdflatex $(MARKDOWN)  -o $(BUILD)cg15.pdf
+
+all: html pdf
