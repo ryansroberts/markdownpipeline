@@ -1,4 +1,9 @@
-Arterial risk factors should be assessed annually
+
+---
+niceevidencegrade: C
+---
+
+## Arterial risk factors should be assessed annually
 Arterial risk factors should be assessed annually, and the assessment should include:
 
 *   albumin excretion rate
@@ -17,5 +22,4 @@ Arterial risk factors should be assessed annually, and the assessment should inc
 
 *   abdominal adiposity.
 '
-
 

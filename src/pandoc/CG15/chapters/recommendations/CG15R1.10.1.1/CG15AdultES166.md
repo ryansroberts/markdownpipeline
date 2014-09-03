@@ -1,6 +1,10 @@
+
+---
+nice.evidencecategory: DS
+---
+
 ### Evidence Statement CG15AdultES166
 A nother evaluation 178 studied all seven guidelines against the calculated Framingham equation in 906 people with diabetes, showing Modified Sheffield tables have higher sensitivity (95% vs 37%) with a slight reduction in specificity (90% vs 97%) compared with the original tables, w ith a slightly better positive predictive value than the original version (80% vs 71%). The Joint Br itish tables have good specificity (99%), but lo w sensitivity (77%) but the tables perform well at the lower CHD risk of greater than or equal to 15% over 10 years (specificity 92%, sensitivity 96%). Canadian tables perform poorly at the = 30% risk, and only slightly better at the greater than or equal to 15% level of risk (specificity 100%, sensitivity 5%, and 85% and 98%, r espectively). The Framingham categorical tables have a lower specificity (83%) for the identification of high-risk individuals (although risk is greater than or equal to 27% not greater than or equal to 30%) and this deteriorates for identification of those at = 15% risk (specificity 77%). New Zealand tables had a sensitivity of 69% and specificity of 88% at a greater than or equal to 20% level of risk, at the = 10% level of risk, specificity deteriorates to 58%. The Joint Eu ro pean tables have a sensitivity of 89% for risk levels greater than or equal to 20% but specificity of only 71%. This means that one in four patients would be incorrectly identified as having a risk above the 20% threshold
 
-
-
 [@Bayly_1999]
+

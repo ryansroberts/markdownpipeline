@@ -1,5 +1,9 @@
-Multidisciplinary teams provide advice
+
+---
+niceevidencegrade: D
+---
+
+## Multidisciplinary teams provide advice
 Advice to adults with Type 1 diabetes should be provided by a range of professionals with skills in diabetes care working together in a coordinated approach. A common environment (diabetes centre) is an important resource in allowing a diabetes multidisciplinary team to work and communicate efficiently while providing consistent advice.
 '
-
 

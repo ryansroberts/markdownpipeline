@@ -1,7 +1,10 @@
+
+---
+nice.evidencecategory: IV
+---
+
 ### Evidence Statement CG15AdultES6
 A number of historically-controlled or descriptive studies support this approach, mainly reporting on patient preference outcomes15,1921
-
-
 
 [@Larsson_1995]
 
@@ -10,3 +13,4 @@ A number of historically-controlled or descriptive studies support this approach
 [@APELQVIST_1994]
 
 [@Frykberg_1997]
+

@@ -1,3 +1,8 @@
+
+---
+nice.evidencecategory: III
+---
+
 ### Evidence Statement CG15AdultES21
 R esearch evaluating the effectiveness of support groups for patients and carers, across n umerous conditions and groups (not necessarily diabetes), has shown specific benefits including: 
 
@@ -14,8 +19,6 @@ R esearch evaluating the effectiveness of support groups for patients and carers
 *    reduced isolation, overcoming depression and loss of self-esteem 64 
 
 *    better understanding of conditions, symptoms and healthcare systems through education and information. 67
-
-
 
 [@Jessup_2001]
 
@@ -36,3 +39,4 @@ R esearch evaluating the effectiveness of support groups for patients and carers
 [@Morris_1998]
 
 [@Tomlinson_1992]
+

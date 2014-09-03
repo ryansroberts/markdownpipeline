@@ -1,6 +1,10 @@
+
+---
+nice.evidencecategory: Ia
+---
+
 ### Evidence Statement CG15AdultES179
 Fo r evidence relating specifically to people with diabetes the North of England guidelines 188 identified eight trials contributing to an overall estimate of risk difference for arterial morbidity of 1.2% with aspirin compared to placebo or other antiplatelet agent. These trials were homogeneous with a pooled incidence rate differen ce (by random effects model) of a 0.3% re duction in the risk of MI, stroke or vascular death from antiplatelet therapy for one year. This is not a statistically significant difference, and in summary authors state that aspirin given to patients with diabetes appears to have a small and statistically uncertain effect upon the risk of ex periencing a subsequent vascular event. They also suggest that the similar relative risk for MI, stroke and vascular death found in diabetes trials and other trials of patients at raised vascular r isk, indicates that patients with diabetes alongside other indications of vascular risk are likely to benefit from routine aspirin therapy 
 
-
-
 [@1994]
+
