@@ -4,4 +4,8 @@ so noting (by reference to the 1985 report) the lack of need for challenge testi
 glucose levels are high in the absence of other metabolic stress, and are confirmed by a second
 laboratory measurement or classic symptoms.
 
+---
+niceevidencecategory: -
+...
+
 

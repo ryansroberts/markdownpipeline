@@ -1,3 +1,4 @@
+### Discussion
 The group were aware of a systematic review designed to detect issues of relevance (rather than trials of interventions) and identified papers concerning differences in incidence, attitudes to complications, degree of response to education programmes, blood glucose control, religious fasting and feasting, and hospitalisation. The group noted that cultural and genetic issues affected diabetes healthcare delivery in the areas of:
 
 *   patient education and self-care

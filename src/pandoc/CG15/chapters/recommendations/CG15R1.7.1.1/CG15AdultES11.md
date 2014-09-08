@@ -1,8 +1,6 @@
 ### Evidence Statement CG15AdultES11
 Although papers were ascertained addressing these areas,3844 the papers were descriptive with no useful analysis of patient-related outcomes
 
-
-
 [@Bridgford_2001]
 
 [@Davis_2001]
@@ -16,3 +14,9 @@ Although papers were ascertained addressing these areas,3844 the papers were des
 [@Engelbrecht_2006]
 
 [@Gupta_2014]
+
+---
+niceevidencecategory: IV
+...
+
+

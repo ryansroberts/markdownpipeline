@@ -7,6 +7,10 @@ The ADA 76 guidelines present recommendations based on a good evidence-based rev
 
 *   food intake to be considered with added carbohydrate as necessary
 
-
-
 [@2003]
+
+---
+niceevidencecategory: Ia
+...
+
+

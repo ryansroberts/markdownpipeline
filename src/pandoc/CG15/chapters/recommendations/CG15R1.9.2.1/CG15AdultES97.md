@@ -9,6 +9,10 @@ The DCCT data has never been satisfactorily analysed with a view to answering th
 
 *   worsening retinopathy is known to occur in the first two years after improvement of blood glucose control, and this is not discounted
 
-
-
 [@1993]
+
+---
+niceevidencecategory: IIa
+...
+
+

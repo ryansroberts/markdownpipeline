@@ -15,8 +15,6 @@ R esearch evaluating the effectiveness of support groups for patients and carers
 
 *    better understanding of conditions, symptoms and healthcare systems through education and information. 67
 
-
-
 [@Jessup_2001]
 
 [@Knight_1993]
@@ -36,3 +34,9 @@ R esearch evaluating the effectiveness of support groups for patients and carers
 [@Morris_1998]
 
 [@Tomlinson_1992]
+
+---
+niceevidencecategory: III
+...
+
+

@@ -23,6 +23,10 @@ promoting preconception care, management during pregnancy and gestational diabet
 
 *  There shall be documentation of the individuals assessment, education plan,intervention, evaluation and follow-up in the permanent confidential education record.
 
-
-
 [@Mensing_2000]
+
+---
+niceevidencecategory: IV
+...
+
+
