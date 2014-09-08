@@ -31,4 +31,7 @@ html: clean
 pdf: clean
 			pandoc $(PANDOC_OPT) --latex-engine=pdflatex $(MARKDOWN)  -o $(BUILD)cg15.pdf
 
-all: html pdf
+json: clean
+			pandoc $(PANDOC_OPT) $(MARKDOWN) -t json -o $(BUILD)cg15.json
+
+all: html pdf json
