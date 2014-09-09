@@ -1,3 +1,8 @@
+
+---
+niceevidencegrade: D
+---
+
 ## Clinical monitoring of blood glucose levels
 Clinical monitoring of blood glucose levels by high precision DCCT-aligned methods of haemoglobin A 1c (HbA 1c ) should be performed every two to six months depending on: 
 
@@ -7,9 +12,4 @@ Clinical monitoring of blood glucose levels by high precision DCCT-aligned metho
 
 *   change in insulin dose or regimen
 '
-
-
----
-niceevidencegrade: D
-...
 

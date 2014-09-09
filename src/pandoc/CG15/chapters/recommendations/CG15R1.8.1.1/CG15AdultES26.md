@@ -1,3 +1,8 @@
+
+---
+nice.evidencecategory: IV
+---
+
 ### Evidence Statement CG15AdultES26
 An update of the US standards for diabetes self-management education79 based on a literature review covered the organisation of diabetes self-management education, its content and provision. A multiprofessional task force encompassing all the major interested stakeholders agreed the following standards.
 
@@ -24,9 +29,4 @@ promoting preconception care, management during pregnancy and gestational diabet
 *  There shall be documentation of the individuals assessment, education plan,intervention, evaluation and follow-up in the permanent confidential education record.
 
 [@Mensing_2000]
-
----
-niceevidencecategory: IV
-...
-
 

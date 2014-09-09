@@ -1,3 +1,8 @@
+
+---
+nice.evidencecategory: Ia
+---
+
 ### Evidence Statement CG15AdultES69
 The ADA 76 guidelines present recommendations based on a good evidence-based review. They recommend that a thorough evaluation be undertaken of patients before exercise is initiated. General recommendations for how to exercise safely include:
 
@@ -8,9 +13,4 @@ The ADA 76 guidelines present recommendations based on a good evidence-based rev
 *   food intake to be considered with added carbohydrate as necessary
 
 [@2003]
-
----
-niceevidencecategory: Ia
-...
-
 

@@ -1,3 +1,8 @@
+
+---
+nice.evidencecategory: IIa
+---
+
 ### Evidence Statement CG15AdultES97
 The DCCT data has never been satisfactorily analysed with a view to answering this question. A graph in the original main paper 117 suggests a curvilinear relationship between control and complications, giving the conclusion that lower is always better (ignoring the hypoglycaemia issue for this purpose), down at least to the levels measured in the study (5.5%). This conclusion is called into question because:
 
@@ -10,9 +15,4 @@ The DCCT data has never been satisfactorily analysed with a view to answering th
 *   worsening retinopathy is known to occur in the first two years after improvement of blood glucose control, and this is not discounted
 
 [@1993]
-
----
-niceevidencecategory: IIa
-...
-
 

@@ -1,3 +1,8 @@
+
+---
+nice.evidencecategory: II
+---
+
 ### Evidence Statement CG15AdultES4
 A nurse specialist approach has been justified by a number of before-and-after studies and case series with such input1317
 
@@ -10,9 +15,4 @@ A nurse specialist approach has been justified by a number of before-and-after s
 [@Brink]
 
 [@Yokoyama_2001]
-
----
-niceevidencecategory: II
-...
-
 
