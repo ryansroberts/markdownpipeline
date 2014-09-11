@@ -1,2 +1,0 @@
-## Topic CG15AdultS8
-Ma ny people wish to perform varying amounts of physical exercise, but this can interact to disturb blood glucose levels in people on insulin therapy. Physical exercise is usually re co mmended to the general population as part of a package of lifestyle measures to improve future health, in particular reduction of arterial risk, which is markedly elevated in people with Ty pe 1 diabetes.

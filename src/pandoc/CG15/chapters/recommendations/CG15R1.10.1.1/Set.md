@@ -1,2 +1,0 @@
-## Topic CG15AdultS15
-People with Type 1 diabetes are generally recognised to be at greatly increased risk of arterial disease (CVD) in middle age. While the literature on arterial risk factors and markers in the general population is large, it would not appear to follow that the findings can be simply carried ov er to people with Type 1 diabetes. Similarly, the tools used to quantify arterial risk in the general population are known not to work well in people with Type 2 diabetes, and seem even less likely to be valid in Type 1 diabetes.

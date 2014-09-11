@@ -1,2 +1,0 @@
-## Topic CG15AdultS7
-The imperfect nature of insulin replacement the ra py , and in particular the prospective, erratic and inappropriate profiles of insulin absorption, make it necessary to understand the effects of different foods on glucose excursions if these ex cursions are to be appropriately minimised. Fu r thermore, people with Type 1 diabetes are at high arterial risk, which might be ameliorated by appropriate nutritional choices, while some associated conditions can be partly managed through nutritional advice.

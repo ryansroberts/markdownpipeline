@@ -1,2 +1,0 @@
-## Topic CG15AdultS6
-In sulin therapy has to be adjusted with lifesty le, insulin dose requirements vary from individual to individual, and the effects of insulin injections are notoriously erratic. It might seem obvious that being able to keep an hour-to-hour or day-to-day check on actual blood glucose levels w ould be to the advantage of any person using insulin therapy. Potential should exist here to assist with diabetes self-education, dose optimisat ion, reassurance over hypoglycaemia and helping professionals give optimum advice on insulin regimens.

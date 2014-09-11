@@ -1,0 +1,3 @@
+### Discussion
+The GDG reviewed the evidence, and their clinical experience of trying to manage the complexities of CV risk in clinical practice. They recognised the primacy of trying to control risk cost effectively against treating-to-target, but also noted the practical utility of measurements in assessing response to therapies and providing motivation to people with diabetes. Ultimately theissue of cost effectiveness could only be resolved in the context of the interventions being used to modify the lipid profile, and the evidence in this area was therefore subsumed into the recommendations on the use of CV risk estimation, statins and fibrates. 
+
