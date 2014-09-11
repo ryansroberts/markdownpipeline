@@ -1,0 +1,2 @@
+Gastroparesis can be one of the more devastating complications of autonomic neuropathy.
+While it can present as bloating, nausea and fullness on eating, severe intermittent hypoglycaemia can be a major problem for people on glucose-lowering therapy, while vomiting may be intermittent and sudden or occasionally severe and protracted. The clinical questions addressed include in whom to suspect gastroparesis might be present, what medications might help, and what other measures might be taken.

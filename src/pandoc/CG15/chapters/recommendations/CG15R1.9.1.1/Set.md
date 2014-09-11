@@ -1,2 +1,0 @@
-## Topic CG15AdultS10
-Ty pe 1 diabetes is for most of the time asymptomatic once effective therapy is instituted. However, it is generally understood that there is a re lationship between blood glucose control and the late complications of the condition. Together these observations suggest that some means of monitoring blood glucose control should help healthcare professionals advise people with diabetes to best effect on insulin doses, regimens and associated lifestyle issues.

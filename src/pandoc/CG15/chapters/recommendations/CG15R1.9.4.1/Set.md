@@ -1,2 +1,0 @@
-## Topic CG15AdultS13
-As a large protein, insulin cannot be taken orally (it is digested) and is only absorbed across mu c ous membranes (of the nose or inside cheeks for example) very poorly. As a result, it generally has to be injected or infused into the subcutaneous fat. Self-use of injection devices is not something most people adopt happily by choice, and since the late 1970s various solutions to making this easier and more satisfactory have been developed. 

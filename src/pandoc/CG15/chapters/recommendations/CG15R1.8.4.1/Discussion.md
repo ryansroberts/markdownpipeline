@@ -1,2 +1,0 @@
-### Discussion
-The group noted that the evidence for an improved arterial risk profile in people with Type 1 diabetes was consistent with that for other diabetic and non-diabetic people. Evidence of a co nsistent effect in improving blood glucose control was absent, although by analogy with people with Type 2 diabetes the overweight/insulin-resistant person might benefit from an ex ercise programme as part of a lifestyle improvement initiative. Some people will undertake significant exercise by choice and would benefit from support in so doing.
