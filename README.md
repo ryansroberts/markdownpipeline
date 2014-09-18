@@ -115,4 +115,4 @@ In this engineering model of content production, documents and other forms of co
 
 * On a major pathway release, the pathways development branch is merged to master and a tag is created. This triggers the same compilation process but also sets the default pathway version shown to the public to these newly created artifacts.
 
-We have built prototypes that demonstrate these principles. A pipeline that produces a document that resembles guidance, content for the pathways website and processes for extracting PROV from git.
+We have built prototypes that demonstrate these principles. A pipeline that produces a document that resembles guidance, content for the pathways website and processes for extracting PROV from git. This document was itself produced using the principles outlined here.
