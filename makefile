@@ -33,7 +33,13 @@ pdf: clean
 json: clean
 			pandoc $(PANDOC_OPT) --bibliography=$(GUIDANCE_DIR)Citations.bibtex $(MARKDOWN) -t json -o $(BUILD)$(GUIDANCE).json
 
-docs: clean
+
+readme: 
 			mddia README.md | pandoc $(PANDOC_OPT) --template=templates/latex.template --bibliography=README.bib --latex-engine=pdflatex  -o README.pdf
+
+arch: 
+			mddia Architecture.md | pandoc $(PANDOC_OPT) --template=templates/latex.template --bibliography=README.bib --latex-engine=pdflatex  -o Architecture.pdf
+
+docs: readme arch
 
 all: html pdf json docs

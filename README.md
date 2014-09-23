@@ -4,7 +4,8 @@ mainfont: 'Old Style 7 Std'
 monofont: 'Pragmata'
 title:  'Semantic content production with plain-text and git'
 abstract: |
-  Plain-text files and a modern version control system can be used to create a content repository and publishing pipeline that can produce both familiar document outputs and semantic data. Version control history can be translated into W3C provenance graphs. Semantic information can be embedded into content directly or inferred. Documents and web content can be created from semantic data as the version control system is updated.
+    Plain-text files and a modern version control system can be used to create a content repository and publishing pipeline. Version control history can be translated into standard compliant W3C provenance graphs. Semantics can be embedded in plain-text content directly, inferred from structure or stored as annotations. Print quality documents and web content can be producted from semantic data as the version control system is updated.
+
 ...
 
 
@@ -115,4 +116,4 @@ In this engineering model of content production, documents and other forms of co
 
 * On a major pathway release, the pathways development branch is merged to master and a tag is created. This triggers the same compilation process but also sets the default pathway version shown to the public to these newly created artifacts.
 
-We have built prototypes that demonstrate these principles. A pipeline that produces a document that resembles guidance, content for the pathways website and processes for extracting PROV from git. This document was itself produced using the principles outlined here.
+We have built prototypes that demonstrate these principles. A pipeline that produces a print quality document that resembles guidance with superior typesetting than is available in Microsoft Word, content for the pathways website and processes for extracting PROV from git. This document was itself produced using the principles outlined here.
