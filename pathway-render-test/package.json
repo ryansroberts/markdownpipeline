@@ -1,0 +1,20 @@
+{
+  "name": "pathway-render-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "gl-matrix-mat4": "~2.2.1-npm",
+    "gl-matrix-vec3": "~2.2.1-npm",
+    "matrix-to-css": "~1.0.4",
+    "raf": "~2.0.3",
+    "gm-tween": "~2.2.2",
+    "modal": "~0.2.0",
+    "jade": "~1.7.0"
+  }
+}

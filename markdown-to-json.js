@@ -4,7 +4,9 @@ var jsdom = require('jsdom');
 var marked = require('marked');
 var Gatherer = require('gm-gather');
 
-var output = process.argv[2];
+var inPath = process.argv[2];
+var inNode = process.argv[3];
+var output = process.argv[4];
 
 /*
 var example = fs.readFileSync('./src/pandoc/CG15/pathways/Managing Type 2 Diabetes/managing-type-2-diabetes.md', 'utf8');
@@ -36,7 +38,7 @@ function loadNode (filepath, file, node, callback){
         if (!err){
 
           // extract data...
-          node.meta = JSON.parse($('code').text());
+          node.meta = JSON.parse($('code').text() || "{}") ;
           // remove the pre/code block...
           $('pre').remove();
 
@@ -101,12 +103,14 @@ function loadNode (filepath, file, node, callback){
 
 }
 
-loadNode ('./src/pandoc/CG15/pathways/Managing Type 2 Diabetes', 'managing-type-2-diabetes.md', {}, function (err, node){
+loadNode (inPath, inNode, {}, function (err, node){
 
     fs.writeFile(output, JSON.stringify(node), 'utf8', function (err){
 
       if (!err){
         console.log('Okay');
+      } else {
+        console.error(err);
       }
 
     });

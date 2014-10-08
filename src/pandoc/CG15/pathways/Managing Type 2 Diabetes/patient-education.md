@@ -6,9 +6,3 @@
 [CG87.1.1.5](http://nice.org.uk/recommendation/CG87R1.1.5)
 [CG87.1.1.6](http://nice.org.uk/recommendation/CG87R1.1.6)
 <a href="/dietary-advice" rel="/pathways/link-down"></a>
-~~~~
-{
-  "x" : 211,
-  "y" : 78
-}
-~~~~
