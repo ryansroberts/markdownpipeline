@@ -1,3 +1,7 @@
+![Alt text](https://placekitten.com/800/400)
+
+Yeah ok
+
 ---
 sansfont: 'Old Style 7 Std'
 mainfont: 'Old Style 7 Std'
